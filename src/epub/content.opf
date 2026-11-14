@@ -54,8 +54,9 @@
 		<link href="https://en.wikipedia.org/wiki/J._Meade_Falkner" refines="#author" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n82017667.html" refines="#author" rel="schema:sameAs"/>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">William Michael Harnett</dc:contributor>
-		<meta property="file-as" refines="#artist">Harnett, William Michael</meta>
+		<dc:contributor id="artist">William Harnett</dc:contributor>
+		<meta property="file-as" refines="#artist">Harnett, William</meta>
+		<meta property="schema:alternateName" refines="#artist">William Michael Harnett</meta>
 		<link href="https://en.wikipedia.org/wiki/William_Harnett" refines="#artist" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/nr90023310.html" refines="#artist" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
